@@ -1,3 +1,3 @@
-# ReduxSimpleStarter
+# youtube-search-viewer
 
-Following along the Udemy course: [Modern React with Redux](https://www.udemy.com/react-redux/)
+ReduxSimpleStarter via the Udemy course: [Modern React with Redux](https://www.udemy.com/react-redux/)
